@@ -10,6 +10,8 @@
         <module name="eurekaclient" />
         <module name="eurekaserver" />
         <module name="sericefeign" />
+        <module name="servicefeign" />
+        <module name="servicehystrix" />
         <module name="serviceribbon" />
         <module name="userserver1" />
         <module name="userserver2" />
@@ -20,6 +22,8 @@
       <module name="eurekaclient" target="1.8" />
       <module name="eurekaserver" target="1.8" />
       <module name="sericefeign" target="1.8" />
+      <module name="servicefeign" target="1.8" />
+      <module name="servicehystrix" target="1.8" />
       <module name="serviceribbon" target="1.8" />
       <module name="SpringCloudLearning" target="1.8" />
       <module name="userserver1" target="1.8" />

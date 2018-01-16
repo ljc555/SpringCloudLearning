@@ -9,6 +9,8 @@
         <option value="$PROJECT_DIR$/userserver2/pom.xml" />
         <option value="$PROJECT_DIR$/common/pom.xml" />
         <option value="$PROJECT_DIR$/serviceribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/servicefeign/pom.xml" />
+        <option value="$PROJECT_DIR$/servicehystrix/pom.xml" />
       </list>
     </option>
   </component>

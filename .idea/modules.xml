@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
       <module fileurl="file://$PROJECT_DIR$/eurekaclient/eurekaclient.iml" filepath="$PROJECT_DIR$/eurekaclient/eurekaclient.iml" />
       <module fileurl="file://$PROJECT_DIR$/eurekaserver/eurekaserver.iml" filepath="$PROJECT_DIR$/eurekaserver/eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicefeign/servicefeign.iml" filepath="$PROJECT_DIR$/servicefeign/servicefeign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicehystrix/servicehystrix.iml" filepath="$PROJECT_DIR$/servicehystrix/servicehystrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/serviceribbon/serviceibbon.iml" filepath="$PROJECT_DIR$/serviceribbon/serviceibbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/serviceribbon/serviceribbon.iml" filepath="$PROJECT_DIR$/serviceribbon/serviceribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/userserver1/userserver1.iml" filepath="$PROJECT_DIR$/userserver1/userserver1.iml" />
