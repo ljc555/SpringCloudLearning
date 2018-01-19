@@ -6,25 +6,31 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="aopserver" />
         <module name="common" />
+        <module name="configserver" />
         <module name="eurekaclient" />
         <module name="eurekaserver" />
         <module name="sericefeign" />
         <module name="servicefeign" />
         <module name="servicehystrix" />
         <module name="serviceribbon" />
+        <module name="servicezuul" />
         <module name="userserver1" />
         <module name="userserver2" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="aopserver" target="1.8" />
       <module name="common" target="1.5" />
+      <module name="configserver" target="1.8" />
       <module name="eurekaclient" target="1.8" />
       <module name="eurekaserver" target="1.8" />
       <module name="sericefeign" target="1.8" />
       <module name="servicefeign" target="1.8" />
       <module name="servicehystrix" target="1.8" />
       <module name="serviceribbon" target="1.8" />
+      <module name="servicezuul" target="1.8" />
       <module name="SpringCloudLearning" target="1.8" />
       <module name="userserver1" target="1.8" />
       <module name="userserver2" target="1.8" />
