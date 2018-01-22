@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="aopserver" />
         <module name="common" />
+        <module name="configclient" />
         <module name="configserver" />
         <module name="eurekaclient" />
         <module name="eurekaserver" />
@@ -23,6 +24,7 @@
     <bytecodeTargetLevel>
       <module name="aopserver" target="1.8" />
       <module name="common" target="1.5" />
+      <module name="configclient" target="1.8" />
       <module name="configserver" target="1.8" />
       <module name="eurekaclient" target="1.8" />
       <module name="eurekaserver" target="1.8" />
