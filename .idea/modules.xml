@@ -6,7 +6,10 @@
       <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
       <module fileurl="file://$PROJECT_DIR$/configclient/configclient.iml" filepath="$PROJECT_DIR$/configclient/configclient.iml" />
       <module fileurl="file://$PROJECT_DIR$/configserver/configserver.iml" filepath="$PROJECT_DIR$/configserver/configserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configserverprod1/configserverprod1.iml" filepath="$PROJECT_DIR$/configserverprod1/configserverprod1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configserverprod2/configserverprod2.iml" filepath="$PROJECT_DIR$/configserverprod2/configserverprod2.iml" />
       <module fileurl="file://$PROJECT_DIR$/eurekaclient/eurekaclient.iml" filepath="$PROJECT_DIR$/eurekaclient/eurekaclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekadockerserver/eurekadockerserver.iml" filepath="$PROJECT_DIR$/eurekadockerserver/eurekadockerserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/eurekaserver/eurekaserver.iml" filepath="$PROJECT_DIR$/eurekaserver/eurekaserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/servicefeign/servicefeign.iml" filepath="$PROJECT_DIR$/servicefeign/servicefeign.iml" />
       <module fileurl="file://$PROJECT_DIR$/servicehystrix/servicehystrix.iml" filepath="$PROJECT_DIR$/servicehystrix/servicehystrix.iml" />
@@ -15,6 +18,9 @@
       <module fileurl="file://$PROJECT_DIR$/servicezuul/servicezuul.iml" filepath="$PROJECT_DIR$/servicezuul/servicezuul.iml" />
       <module fileurl="file://$PROJECT_DIR$/userserver1/userserver1.iml" filepath="$PROJECT_DIR$/userserver1/userserver1.iml" />
       <module fileurl="file://$PROJECT_DIR$/userserver2/userserver2.iml" filepath="$PROJECT_DIR$/userserver2/userserver2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zipkinconsumer/zipkinconsumer.iml" filepath="$PROJECT_DIR$/zipkinconsumer/zipkinconsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zipkinprovider/zipkinprovider.iml" filepath="$PROJECT_DIR$/zipkinprovider/zipkinprovider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zipkinserver/zipkinserver.iml" filepath="$PROJECT_DIR$/zipkinserver/zipkinserver.iml" />
     </modules>
   </component>
 </project>

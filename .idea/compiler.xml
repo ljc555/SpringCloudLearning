@@ -10,7 +10,11 @@
         <module name="common" />
         <module name="configclient" />
         <module name="configserver" />
+        <module name="configserverdev" />
+        <module name="configserverprod1" />
+        <module name="configserverprod2" />
         <module name="eurekaclient" />
+        <module name="eurekadockerserver" />
         <module name="eurekaserver" />
         <module name="sericefeign" />
         <module name="servicefeign" />
@@ -19,6 +23,9 @@
         <module name="servicezuul" />
         <module name="userserver1" />
         <module name="userserver2" />
+        <module name="zipkinconsumer" />
+        <module name="zipkinprovider" />
+        <module name="zipkinserver" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -26,7 +33,13 @@
       <module name="common" target="1.5" />
       <module name="configclient" target="1.8" />
       <module name="configserver" target="1.8" />
+      <module name="configserverdev" target="1.8" />
+      <module name="configserverprod" target="1.8" />
+      <module name="configserverprod1" target="1.8" />
+      <module name="configserverprod2" target="1.8" />
+      <module name="configservertest" target="1.8" />
       <module name="eurekaclient" target="1.8" />
+      <module name="eurekadockerserver" target="1.8" />
       <module name="eurekaserver" target="1.8" />
       <module name="sericefeign" target="1.8" />
       <module name="servicefeign" target="1.8" />
@@ -36,6 +49,9 @@
       <module name="SpringCloudLearning" target="1.8" />
       <module name="userserver1" target="1.8" />
       <module name="userserver2" target="1.8" />
+      <module name="zipkinconsumer" target="1.8" />
+      <module name="zipkinprovider" target="1.8" />
+      <module name="zipkinserver" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

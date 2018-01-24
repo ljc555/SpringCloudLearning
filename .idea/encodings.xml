@@ -5,7 +5,10 @@
     <file url="file://$PROJECT_DIR$/aopserver" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/configclient" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/configserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configserverprod1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configserverprod2" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eurekaclient" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eurekadockerserver" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eurekaserver" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/servicefeign" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/servicehystrix" charset="UTF-8" />
@@ -13,5 +16,8 @@
     <file url="file://$PROJECT_DIR$/servicezuul" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/userserver1" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/userserver2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zipkinconsumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zipkinprovider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zipkinserver" charset="UTF-8" />
   </component>
 </project>
