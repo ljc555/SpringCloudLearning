@@ -55,6 +55,8 @@
 		</dependencies>
 	</dependencyManagement>
 
+	<!-- 打包命令：mvn package docker:build-->
+	<!-- 打包并且直接推送到仓库中： mvn package docker:build -DpushImage -->
 	<build>
 		<plugins>
 			<plugin>
