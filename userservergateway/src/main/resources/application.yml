@@ -18,4 +18,5 @@ zuul:
   routes:
     api-a:
       path: /user-api/**
+      #serviceId: servicefeign
       serviceId: userserver
