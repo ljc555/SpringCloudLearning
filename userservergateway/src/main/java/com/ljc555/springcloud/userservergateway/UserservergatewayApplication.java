@@ -1,16 +1,16 @@
-package com.ljc555.springcloud.zipkinserver;
+package com.ljc555.springcloud.userservergateway;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
-import zipkin.server.EnableZipkinServer;
+import org.springframework.cloud.netflix.zuul.EnableZuulProxy;
 
 @SpringBootApplication
-@EnableZipkinServer
 @EnableEurekaClient
-public class ZipkinserverApplication {
+@EnableZuulProxy
+public class UserservergatewayApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ZipkinserverApplication.class, args);
+		SpringApplication.run(UserservergatewayApplication.class, args);
 	}
 }

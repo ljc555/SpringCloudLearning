@@ -23,6 +23,7 @@
         <module name="servicezuul" />
         <module name="userserver1" />
         <module name="userserver2" />
+        <module name="userservergateway" />
         <module name="zipkinconsumer" />
         <module name="zipkinprovider" />
         <module name="zipkinserver" />
@@ -49,6 +50,7 @@
       <module name="SpringCloudLearning" target="1.8" />
       <module name="userserver1" target="1.8" />
       <module name="userserver2" target="1.8" />
+      <module name="userservergateway" target="1.8" />
       <module name="zipkinconsumer" target="1.8" />
       <module name="zipkinprovider" target="1.8" />
       <module name="zipkinserver" target="1.8" />

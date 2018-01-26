@@ -23,6 +23,7 @@
         <option value="$PROJECT_DIR$/zipkinprovider/pom.xml" />
         <option value="$PROJECT_DIR$/zipkinconsumer/pom.xml" />
         <option value="$PROJECT_DIR$/eurekadockerserver/pom.xml" />
+        <option value="$PROJECT_DIR$/userservergateway/pom.xml" />
       </list>
     </option>
   </component>

@@ -18,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/servicezuul/servicezuul.iml" filepath="$PROJECT_DIR$/servicezuul/servicezuul.iml" />
       <module fileurl="file://$PROJECT_DIR$/userserver1/userserver1.iml" filepath="$PROJECT_DIR$/userserver1/userserver1.iml" />
       <module fileurl="file://$PROJECT_DIR$/userserver2/userserver2.iml" filepath="$PROJECT_DIR$/userserver2/userserver2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/userservergateway/userservergateway.iml" filepath="$PROJECT_DIR$/userservergateway/userservergateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/zipkinconsumer/zipkinconsumer.iml" filepath="$PROJECT_DIR$/zipkinconsumer/zipkinconsumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/zipkinprovider/zipkinprovider.iml" filepath="$PROJECT_DIR$/zipkinprovider/zipkinprovider.iml" />
       <module fileurl="file://$PROJECT_DIR$/zipkinserver/zipkinserver.iml" filepath="$PROJECT_DIR$/zipkinserver/zipkinserver.iml" />
